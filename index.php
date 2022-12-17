@@ -34,7 +34,7 @@ $user = query("SELECT * FROM mahasiswa LIMIT $IndeksData,$JumlahDataPerHal");
   <?php include("header.php") ?>
   <nav class="navbar navbar-expand-sm navbar-light">
     <div class="container">
-      <span class="navbar-text fs-4">Kelola Mahasiswa</span>
+      <span class="navbar-text fs-4">Kelola Mahasiswa Winz College</span>
 
       <ul class="breadcrumb fs-5 d-none d-md-flex">
 
